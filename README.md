@@ -14,7 +14,7 @@ Ini adalah sistem portal berita sebuah instansi yang berada diJawa Tengah yg dib
 - Composer: 2.4.1
 
 ## Instalasi
-- git clone https://github.com/cimot-dev/magang.git
+- git clone https://github.com/cimot-dev/diskominfo.git
 - ```cd magang```
 
 ## Install Dependencies
