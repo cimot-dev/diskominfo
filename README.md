@@ -15,7 +15,7 @@ Ini adalah sistem portal berita sebuah instansi yang berada diJawa Tengah yg dib
 
 ## Instalasi
 - git clone https://github.com/cimot-dev/diskominfo.git
-- ```cd magang```
+- ```cd diskominfo```
 
 ## Install Dependencies
 - ```composer install```
