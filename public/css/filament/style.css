@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Adelia";
+    src: url("fonts/adelia.ttf") format("truetype"); /* Pastikan path file font benar */
+}
+
+.text-adelia {
+    font-family: "Adelia", cursive; /* Gunakan 'cursive' sebagai fallback */
+}

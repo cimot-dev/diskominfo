@@ -1,0 +1,15 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* CSS untuk animasi scroll masuk dari luar */
+.scroll-fade-in {
+    opacity: 0;
+    transform: translateY(50px);
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+}
+
+.scroll-fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
