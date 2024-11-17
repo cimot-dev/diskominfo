@@ -1,53 +1,50 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p> <p align="center"> <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a> <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a> <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a> <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a> </p>
 
-## Tentang Proyek
-Ini adalah sistem portal berita sebuah instansi yang berada diJawa Tengah yg dibuat objek belajar membuat sistem bagi mahasiswa magang. Untuk CRUD disini saya menggunakan laravel filament
+---
 
-## Fitur Project
-- Informasi berita
-- Input Data Pegawai
-- Input Data Rencana Kerja
-- Informasi Perangkat Daerah
+# 🌐 **Portal Berita Dinkominfo - Bapellitbangda** 📰
 
-## Persyaratan
-- PHP: 8.3.9
-- Composer: 2.4.1
+Selamat datang di **Portal Berita Dinkominfo**, sistem informasi terbaru untuk instansi di Jawa Tengah, dibuat untuk mahasiswa magang. Dibangun dengan **Laravel Filament**, memudahkan pengelolaan data dan informasi! 🚀
 
-## Instalasi
-- git clone https://github.com/cimot-dev/diskominfo.git
-- ```cd diskominfo```
+## 🔥 Fitur Unggulan:
+- 📰 **Berita Terbaru**
+- 👨‍💼 **Input Data Pegawai**
+- 📅 **Rencana Kerja**
+- 🏛️ **Informasi Perangkat Daerah**
 
-## Install Dependencies
-- ```composer install```
-- ```npm install```
+## ⚙️ Persyaratan Sistem:
+- **PHP**: 8.3.9
+- **Composer**: 2.4.1
 
-## Salin file ```.env.example```
-- ```cp .env.example .env```
+## 🚀 Instalasi Cepat:
+1. Clone repositori:
+    ```bash
+    git clone https://github.com/cimot-dev/diskominfo.git
+    cd diskominfo
+    ```
 
-## Generate application key:
-- ```php artisan key:generate```
+2. Install dependencies:
+    ```bash
+    composer install
+    npm install
+    ```
 
-## Update file .env sesuai dengan konfigurasi database:
-```DB_CONNECTION=mysql
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=
-DB_DATABASE=nama_db
-DB_USERNAME=
-DB_PASSWORD=yourpassword
-```
-## Jalankan migrasi database:
-```php artisan migrate```
+3. Salin file `.env.example` ke `.env` dan update konfigurasi database.
+4. Jalankan migrasi dan server:
+    ```bash
+    php artisan migrate
+    php artisan serve
+    ```
 
-## Jalankan server:
-```php artisan serve```
+5. Untuk dashboard login, jalankan:
+    ```bash
+    npm run dev
+    ```
 
-## Menjalankan Dashboard Login
-```npm run dev```
+## 📝 Lisensi:
+Proyek ini menggunakan [MIT License](https://opensource.org/licenses/MIT).
 
-## Lisensi
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 💖 Terima Kasih Banyak!
+## 💖 Terima Kasih!
 
 Jika proyek ini membantu, jangan lupa untuk memberi ⭐ di repo ini! 😊
+
