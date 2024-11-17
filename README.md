@@ -19,7 +19,7 @@ Selamat datang di **Portal Berita**, sistem informasi terbaru untuk instansi di 
 ## 🚀 Instalasi Cepat:
 1. Clone repositori:
     ```bash
-    git clone https://github.com/cimot-dev/diskominfo.git
+    git clone https://github.com/dhmsAdhty/diskominfo.git
     cd diskominfo
     ```
 
