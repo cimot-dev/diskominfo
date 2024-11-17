@@ -2,9 +2,9 @@
 
 ---
 
-# 🌐 **Portal Berita Dinkominfo - Bapellitbangda** 📰
+# 🌐 **Portal Berita - Bapellitbangda** 📰
 
-Selamat datang di **Portal Berita Dinkominfo**, sistem informasi terbaru untuk instansi di Jawa Tengah, dibuat untuk mahasiswa magang. Dibangun dengan **Laravel Filament**, memudahkan pengelolaan data dan informasi! 🚀
+Selamat datang di **Portal Berita**, sistem informasi terbaru untuk instansi di Jawa Tengah, dibuat untuk mahasiswa internship. Dibangun dengan **Laravel Filament**, memudahkan pengelolaan data dan informasi! 🚀
 
 ## 🔥 Fitur Unggulan:
 - 📰 **Berita Terbaru**
